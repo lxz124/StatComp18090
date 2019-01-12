@@ -1,0 +1,17 @@
+Package: StatComp18090
+Type: Package
+Title: Some functions for 'Statistical Computing' course.
+Version: 0.1.0
+Author: 18090
+Date: 2019-01-03
+Maintainer: 18090 <lxz124@mail.ustc.edu.cn>
+Description: An assignment for the Statistical Computing course of USTC.
+License: GPL (>= 2)
+Imports:microbenchmark, knitr, rmarkdown
+Encoding: UTF-8
+RoxygenNote: 6.1.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/lxz124/StatComp18090
+BugReports: http://github.com/lxz124/StatComp18090/issues
+
